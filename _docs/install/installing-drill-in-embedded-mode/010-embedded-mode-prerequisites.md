@@ -14,3 +14,5 @@ Before you install Drill, ensure that the machine meets the following prerequisi
   * A utility for unzipping a tar.gz file 
 
 Follow installation instructions in this documentation for your particular operating system.
+
+提示：独立运行模式不支持用户认证，需用户认证请使用集群模式运行。
